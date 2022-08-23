@@ -1,4 +1,4 @@
 # chrome-extension-youtube-bookmark
 its a chrome extension
-it works for youtube bookmark
-we uses javascript 
+,it works for youtube bookmark
+And we uses javascript 
